@@ -1,3 +1,4 @@
+// Declaring variables in JS from selecting Id's from HTML file
 const timeDisplay = document.querySelector("#time-display")
 const startButton = document.querySelector("#start-button")
 const pauseButton = document.querySelector("#pause-button")
